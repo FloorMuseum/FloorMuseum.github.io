@@ -10,6 +10,7 @@ blockquote {
 
 h1 {
   font-family: 'Pacifico', cursive;
+  padding-bottom: 10px;
 }
 
 a, a:hover {
@@ -40,6 +41,10 @@ article {
 .thumbnail p {
   margin-top: 10px;
   font-family: 'Pacifico', cursive;
+}
+
+#disqus_thread {
+  margin-bottom: 10px;
 }
 
 footer {
